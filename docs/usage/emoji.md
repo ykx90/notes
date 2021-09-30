@@ -1,8 +1,18 @@
-# Emoji
+# 😃 Emoji
 
+## 🔗 Website
+
+[https://emojixd.com/](https://emojixd.com/)
+
+
+## 🔌 Plugin
+
+```txt
+ :name: -> emoji
+```
 
 | name| emoji |
-| --- | --- |
+| --- | :-: |
 | 100 | :100: |
 | 1234 | :1234: |
 | +1 | :+1: |

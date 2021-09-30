@@ -1,25 +1,26 @@
-* [Home](/)
+* [🏠 Home](/)
 
-* Artifitial Intelligence
+* 🛸 Artifitial Intelligence
 
     * Deep Learning
 
-* Gui
+* 🖥️ Gui
 
     * Qt
 
-* Machine Learning
+* 🚀 Machine Learning
 
     * Random Forest
 
-* Web
+* 🌐 Web
 
     * Vue
     * React
     * CSS
 
-* Usage
+* 📑 Usage
 
+    * [Markdown](/usage/markdown.md)
     * [Emoji](/usage/emoji.md)
     * [KateX](/usage/katex.md)
     * [Mermaid](/usage/mermaid.md)

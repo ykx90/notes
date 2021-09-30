@@ -1,1 +1,1 @@
-# mermaid
+# [Mermaid](https://mermaid-js.github.io/mermaid/#/flowchart)
