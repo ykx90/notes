@@ -1,0 +1,13 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
+  "devDependencies": {
+    "docsify": "^4.12.1",
+    "docsify-cli": "^4.4.3"
+  }
+}
