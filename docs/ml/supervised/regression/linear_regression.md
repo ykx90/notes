@@ -18,6 +18,8 @@ The essence is try the best to fit an unknown equation by a linear model which i
 $$\begin{Vmatrix} x \end{Vmatrix}_1 = \displaystyle\sum_{i=1}^n \begin{vmatrix} x_i \end{vmatrix}$$
 $$\begin{Vmatrix} x \end{Vmatrix}_2 = \sqrt{\displaystyle\sum_{i=1}^n x^2_i}$$
 
+$$\begin{cases} \hat{w} = \frac {\displaystyle\sum_{i=1}^n{ (x_i - \bar{x})(y_i - \bar{y})} }{ \displaystyle\sum_{i=1}^n{(x_i - \bar{x})^2} } = \frac {\displaystyle\sum_{i=1}^n{x_iy_i - n\bar{x}\bar{y}}} {\displaystyle\sum_{i=1}^n{x_i^2 - n\bar{x}^2}} \\ \hat{b} = \bar{y} - \hat{w}\bar{x} \end{cases}$$
+
 ### Loss equation optimization
 `1-3` $$\min_{w,b}\begin{Vmatrix} \hat{y} - y \end{Vmatrix}^2_2$$
 
