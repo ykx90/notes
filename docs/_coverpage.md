@@ -1,7 +1,5 @@
-# docsify <small>3.5</small>
+# Notes
 
-> A magical documentation site generator.
+> A note site.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+`Notes` - `Algorithms` - `Apps`

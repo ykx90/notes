@@ -1,16 +1,12 @@
 * [🏠 Home](/)
 
-* 🛸 Artifitial Intelligence
-
-    * Deep Learning
+* 🛸 Deep Learning
 
 * 🖥️ Gui
 
     * Qt
 
-* 🚀 Machine Learning
-
-    * Random Forest
+* [🚀 Machine Learning](/ml/)
 
 * 🌐 Web
 
@@ -20,7 +16,7 @@
 
 * 📑 Usage
 
-    * [Markdown](/usage/markdown.md)
-    * [Emoji](/usage/emoji.md)
-    * [KateX](/usage/katex.md)
-    * [Mermaid](/usage/mermaid.md)
+    * [📔 Markdown](/usage/markdown.md)
+    * [😃 Emoji](/usage/emoji.md)
+    * [♾️ KateX](/usage/katex.md)
+    * [📈 Mermaid](/usage/mermaid.md)
