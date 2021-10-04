@@ -6,7 +6,7 @@
 
     * Qt
 
-* [🚀 Machine Learning](/ml/)
+* [🚀 Machine Learning](/ml/readme.md)
 
 * 🌐 Web
 

@@ -1,6 +1,6 @@
 * [Home](/#/)
 
-* [Regression](/)
+* [Regression](/ml/supervised/readme.md)
         
     * [Linear Regression](/ml/supervised/regression/linear_regression.md)
     * [Logistic Regression](/ml/supervised/regression/logistic_regression.md)

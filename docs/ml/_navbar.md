@@ -1,6 +1,6 @@
 * [Home](/#/)
 
-* [Basic](/ml/)
+* [Basic](/ml/readme.md)
 
 * Libraries
 
@@ -10,12 +10,12 @@
 
 * Supervised Learning
 
-    * [Regression](/ml/supervised/)
+    * [Regression](/ml/supervised/readme.md)
 
-    * [Classify](/ml/supervised/)
+    * [Classify](/ml/supervised/readme.md)
 
 * Unsupervised Learning
 
-    * [Cluster](/ml/unsupervised/)
-    * [Neural Network](/ml/unsupervised/)
-    * [Ensemble](/ml/unsupervised/)
+    * [Cluster](/ml/unsupervised/readme.md)
+    * [Neural Network](/ml/unsupervised/readme.md)
+    * [Ensemble](/ml/unsupervised/readme.md)

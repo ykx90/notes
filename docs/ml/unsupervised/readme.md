@@ -1,6 +1,6 @@
 * [Home](/#/)
 
-* [Cluster](/ml/unsupervised/)
+* [Cluster](/ml/unsupervised/readme.md)
 
     * [K-means](/ml/unsupervised/cluster/k_means.md)
 
