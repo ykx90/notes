@@ -1,5 +1,10 @@
 # Random Forest
 
+## Ensemble learning
+1. Bagging Algorithm
+2. Boosting Algorithm
+3. Stacking Algorithm
+
 ## Ensemble in Python
 
 - RandomForestClassifier
