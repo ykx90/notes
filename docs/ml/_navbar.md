@@ -12,8 +12,10 @@
 
     * [Regression](/ml/supervised/)
 
-    * Classify
+    * [Classify](/ml/supervised/)
 
 * Unsupervised Learning
 
-    * Cluster
+    * [Cluster](/ml/unsupervised/)
+    * [Neural Network](/ml/unsupervised/)
+    * [Ensemble](/ml/unsupervised/)
